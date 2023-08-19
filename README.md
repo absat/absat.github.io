@@ -4,11 +4,11 @@
 Btech in Computer Science, IIIT Bhubaneswar
 
 ### Work Experience
-Senior Member of Technical Staff (Backend SWE), Athenahealth
+#### Senior Member of Technical Staff (Backend SWE), Athenahealth
 - Documentation, design, development, and code reviews for new features for the AthenaPayer solutions
 - Tech Stack: Java, Spring Boot, AWS services, Terraform, PostgreSQL, Snowflake, Prometheus, Grafana
 
-Software Engineer 2, Dell Technologies
+#### Software Engineer 2, Dell Technologies
 - Migrated a monolithic windows service app to multiple microservices hosted in Pivotal Cloud Foundry.
 - Proposed and implemented parallel processing of independent sections in order validation process to boost
 performance by 15%. Tech Stack: dotnet core, SQL.
@@ -23,12 +23,12 @@ phase.
 - Tech stack: C#, Dotnet Core, Python, Angular 8, SQL, MongoDB, PCF, Moq, xUnit, Selenium
 
 ### Projects
-Next word prediction with LSTM network, Capstone Project, Udacity Machine Learning Advanced Nanodegree (2019)
+#### Next word prediction with LSTM network, Capstone Project, Udacity Machine Learning Advanced Nanodegree (2019)
 - Implemented a LSTM network on “Twitter US Airlines Sentiment” dataset, improving upon the performance of a
 baseline bigram prediction model.
 - Tech stack: Python, Keras
 
-Process Mining
+#### Process Mining
 - The project dealt with identification of processes from unlabeled event logs using Expectation-Maximization algorithm.
 - Both synthetic and real world datasets were used for evaluating the work.
 - Tech Stack: C++, Python
