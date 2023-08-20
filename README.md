@@ -5,7 +5,7 @@ Btech in Computer Science, IIIT Bhubaneswar
 
 ### Work Experience
 #### Senior Member of Technical Staff (Backend SWE), Athenahealth
-- Documentation, design, development, and code reviews for new features for the AthenaPayer solutions
+- Documentation, design, development, and code reviews for new features for AthenaPayer solutions
 - Tech Stack: Java, Spring Boot, AWS services, Terraform, PostgreSQL, Snowflake, Prometheus, Grafana
 
 #### Software Engineer 2, Dell Technologies
